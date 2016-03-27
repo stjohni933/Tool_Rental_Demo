@@ -1,0 +1,6 @@
+R:\Stuff\Coding\ToolRental\src\Checkout.java
+R:\Stuff\Coding\ToolRental\src\CheckoutDiscountException.java
+R:\Stuff\Coding\ToolRental\src\RentalAgreement.java
+R:\Stuff\Coding\ToolRental\src\TestRunner.java
+R:\Stuff\Coding\ToolRental\src\TestToolRental.java
+R:\Stuff\Coding\ToolRental\src\Tool.java

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>ToolRental</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>src\</source_path>
+		<jdkprofile_ref>JDK version 1.8.0_31</jdkprofile_ref>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="TestRunner"/>
+		<item run="Checkout"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>TestRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries>
+		<library_ref>JUnit 4.12</library_ref>
+	</libraries>
+	<files>
+		<include>
+			<folderitem>
+				<path>src</path>
+			</folderitem>
+			<fileitem>
+				<path>src\Checkout.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\CheckoutDiscountException.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\RentalAgreement.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\TestRunner.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\TestToolRental.java</path>
+				<folder>src</folder>
+			</fileitem>
+			<fileitem>
+				<path>src\Tool.java</path>
+				<folder>src</folder>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>

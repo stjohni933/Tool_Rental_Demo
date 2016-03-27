@@ -1,0 +1,47 @@
+Output for ToolRental Project Unit Test:
+---------------------------------------------------------------------------
+Running Test 1...
+Checking due date: passed.
+ Checking tool daily rate: passed.
+ Checking charge days: passed.
+ Checking pre-discount charge: passed.
+ Checking discount percentage: passed.
+ Checking discount amount: passed.
+ Checking final charge: passed.
+ Test 1 passed.
+
+Running Test 2...
+Checking due date: passed.
+ Checking tool daily rate: passed.
+ Checking charge days: passed.
+ Checking pre-discount charge: passed.
+ Checking discount percentage: passed.
+ Checking discount amount: passed.
+ Checking final charge: passed.
+ Test 2 passed.
+
+Running Test 3...
+Checking due date: passed.
+ Checking tool daily rate: passed.
+ Checking charge days: passed.
+ Checking pre-discount charge: passed.
+ Checking discount percentage: passed.
+ Checking discount amount: passed.
+ Checking final charge: passed.
+ Test 3 passed.
+
+Running Test 4...
+Checking due date: passed.
+ Checking tool daily rate: passed.
+ Checking charge days: passed.
+ Checking pre-discount charge: passed.
+ Checking discount percentage: passed.
+ Checking discount amount: passed.
+ Checking final charge: passed.
+ Test 4 passed.
+
+Running Test 5 (Exception Test)...
+Expecting Checkout Discount Exception:
+ All Tests passed.
+
+Process completed.
